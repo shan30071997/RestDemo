@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor?userSSl=false
+    username: root
+    password: Shan@1997
+    
+#JPA settings
+  jpa:
+    hibernate:
+      ddl-auto: none
